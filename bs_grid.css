@@ -1,6 +1,8 @@
 @-ms-viewport {
   width: device-width;
 }
+
+.img-responsive {max-width: 100%; height: auto; display:block}
 .visible-xs,
 .visible-sm,
 .visible-md,
